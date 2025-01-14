@@ -1,5 +1,3 @@
 # AMAZON
-# AMAZON
-# AMAZON
-# amazon
-# AMAZON
+
+![](screenshot.gif)
